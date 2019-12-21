@@ -1,1 +1,3 @@
-"# golang_encapsulation" 
+# Encapsulation
+- Public
+- Private
